@@ -1,0 +1,76 @@
+html {
+	margin: 35px;
+	padding: 25px;
+	}
+body { 
+	font: 100% georgia, sans-serif;
+	line-height: 1.88889;
+	color:darkblue; 
+    background-image: url(animal-dawn-desktop-backgrounds-875858.jpg);
+    background-size: cover; 
+	margin: 15; 
+	padding: 25;
+	}
+#amunt-spr-19-jpg {
+    transform: rotate(0.25turn);
+    margin-bottom: 5%;
+
+}
+#cvlistologo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    p { 
+	margin-top: 0; 
+	text-align: justify;
+    }
+h1 {
+    text-align: center;
+    color: gainsboro;
+}
+.page-description {
+    color: gainsboro;
+    font-weight: bold;
+}
+h2 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+    color: gainsboro;
+    border: 3px solid black;
+    padding: 15px 25px;
+    }
+table, td, th, tr, tbody {
+    border: 5px black;   
+    text-align: left;
+    padding: 8px;
+}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: blueviolet;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: rgb(216, 37, 233);
+    }
+#bg {
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+}
+#bg img {
+    position: absolute;
+    top:0;
+    left: 0;
+    right:0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+}
+	
